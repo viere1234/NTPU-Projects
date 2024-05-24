@@ -1,4 +1,4 @@
-My Homework/Projects for NTPU courses
+My Homework/Projects for NTPU CSIE Courses
 ========
 
 | Year | Semester | Course | # | Title | Description |
