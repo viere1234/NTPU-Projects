@@ -1,8 +1,8 @@
-My Homeworks/Projects for NTPU courses
+My Homework/Projects for NTPU courses
 ========
 
-| Year | Semester | Course | # | Name | Description |
-| ---- | ---------| ------ | - | ---- | ----------- |
+| Year | Semester | Course | # | Title | Description |
+| ---- | ---------| ------ | - | ----- | ----------- |
 | 112 | First | Data Structures | HW1 | [Run-length Encoding & Decoding](https://github.com/viere1234/NTPU-Projects/tree/main/Data_Structures/HW1) | N/A |
 | 112 | First | Data Structures | HW2 | [Huffman Encoding & Decoding](https://github.com/viere1234/NTPU-Projects/tree/main/Data_Structures/HW2) | N/A |
 | 112 | First | Computer Graphics | HW1~3 | [3D Model Viewer](https://github.com/viere1234/NTPU-Projects/tree/main/Computer_Graphics) | An .obj 3D model viewer using OpenGL |
